@@ -65,7 +65,7 @@
 ## 使用方法
 1. 下载脚本
 下载命令:(如有curl)
-curl -L https://github.com/du-zihan/Database/releases/tag/v1.0.0/Database.sh | bash
+curl -L https://github.com/du-zihan/Database/releases/download/v1.0.0/Database.sh | bash
 2. 按界面提示完成部署
 
 部署后管理：
