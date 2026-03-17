@@ -66,10 +66,7 @@
 1. 下载脚本
 下载命令:(如有curl)
 curl -L https://github.com/du-zihan/Database/releases/tag/v1.0/Database.sh | bash
-3. 进入目录
-4. chmod +x database.sh
-5. ./database.sh
-6. 按界面提示完成部署
+2. 按界面提示完成部署
 
 部署后管理：
 ./database.sh redis start
