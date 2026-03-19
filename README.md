@@ -6,16 +6,26 @@
 ---
 
 # 支持的Linux系统
-用APT包管理器的
+用APT包管理器的——
+
 · Debian
+
 · Ubuntu
+
 · Kali Linux
+
 · Linux Mint
+
 · Pop!_OS
+
 · Deepin
+
 · Raspberry Pi OS
+
 · MX Linux
+
 · Zorin OS
+
 · elementary OS
 
 ---
