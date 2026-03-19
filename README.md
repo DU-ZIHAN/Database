@@ -5,6 +5,21 @@
 
 ---
 
+# 支持的Linux系统
+用APT包管理器的
+· Debian
+· Ubuntu
+· Kali Linux
+· Linux Mint
+· Pop!_OS
+· Deepin
+· Raspberry Pi OS
+· MX Linux
+· Zorin OS
+· elementary OS
+
+---
+
 ## 项目介绍
 这是一款专为 Linux 服务器打造的数据库全自动部署脚本，
 保留极简流畅的 TUI 交互，支持三大主流数据库，一键完成安装、配置、优化、开机自启、集群配置。
