@@ -6,29 +6,8 @@
 ---
 
 # 支持的Linux系统
-用APT包管理器的——
-
-· Debian
-
-· Ubuntu
-
-· Kali Linux
-
-· Linux Mint
-
-· Pop!_OS
-
-· Deepin
-
-· Raspberry Pi OS
-
-· MX Linux
-
-· Zorin OS
-
-· elementary OS
-
----
+1.0,2.0用APT包管理器
+3.0级以上支持所有Linux包管理器
 
 ## 项目介绍
 这是一款专为 Linux 服务器打造的数据库全自动部署脚本，
