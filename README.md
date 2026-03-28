@@ -69,8 +69,16 @@
 ## 使用方法
 1. 下载脚本
 下载命令:(如有curl)
+1.0.0:
 curl -L https://github.com/du-zihan/Database/releases/download/v1.0.0/Database.sh | bash
-2. 按界面提示完成部署
+
+2.0.0:
+curl -L https://github.com/du-zihan/Database/releases/download/v2.0.0/Database.sh | bash
+
+3.0.0:
+curl -L https://github.com/du-zihan/Database/releases/download/v3.0.0/Database.sh | bash
+
+3. 按界面提示完成部署
 
 部署后管理：
 ./database.sh redis start
